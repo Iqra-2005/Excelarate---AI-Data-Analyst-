@@ -41,7 +41,7 @@ The notebook demonstrates the **end-to-end data processing pipeline** applied to
 
 ### ✅ Recommendation System 
 
-- Designed a rule-based recommendation system to suggest relevant opportunities to users based on their demographics and engagement patterns.
+- Designed a simple rule-based recommendation system to suggest relevant opportunities to users based on their demographics and engagement patterns.
 - Clustered users with similar behaviors using KMeans (optional: or used collaborative filtering if applicable).
 - Created matching logic between student profiles and opportunity characteristics.
 - Evaluated system precision by comparing historical outcomes and suggested matches.
