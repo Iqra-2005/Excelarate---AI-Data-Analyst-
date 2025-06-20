@@ -68,7 +68,7 @@ The notebook demonstrates the **end-to-end data processing pipeline** applied to
 
 
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 This work was completed as part of my internship at **Excelerate**, under guidance from the data team. Special thanks to the project mentors for their support.
 
