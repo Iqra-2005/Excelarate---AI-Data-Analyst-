@@ -25,7 +25,27 @@ The notebook demonstrates the **end-to-end data processing pipeline** applied to
 - **MinMax Normalization** of numerical features
 
 ### ✅ Exploratory Data Analysis (EDA)
-- 
+- Visualized distribution of key features such as age, engagement duration, and signup trends.
+- Analyzed time-based patterns (e.g., signups by month/year).
+- Identified correlations between user demographics and application timing.
+- Detected outliers and inconsistencies using box plots and scatter plots.
+- Assessed class imbalance and data quality for predictive readiness.
+  
+### ✅ Predictive Modeling
+
+- Built supervised learning models to predict user drop-off or completion.
+- Trained models using logistic regression and evaluated with precision, recall, F1-score, and AUC.
+- Handled imbalanced data using stratified sampling and/or class weights.
+- Performed feature selection and importance ranking using model coefficients.
+- Validated model performance using cross-validation and confusion matrix.
+
+### ✅ Recommendation System 
+
+- Designed a rule-based recommendation system to suggest relevant opportunities to users based on their demographics and engagement patterns.
+- Clustered users with similar behaviors using KMeans (optional: or used collaborative filtering if applicable).
+- Created matching logic between student profiles and opportunity characteristics.
+- Evaluated system precision by comparing historical outcomes and suggested matches.
+
 
 ## 🧰 Tech Stack
 
@@ -52,5 +72,5 @@ The notebook demonstrates the **end-to-end data processing pipeline** applied to
 
 This work was completed as part of my internship at **Excelerate**, under guidance from the data team. Special thanks to the project mentors for their support.
 
----
+
 
